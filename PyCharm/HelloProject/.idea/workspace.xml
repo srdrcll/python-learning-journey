@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71c9eb27-2da8-41a9-bcd2-eeaf11e3eb40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HelloProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimalPackage/CatPackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimalPackage/CatPackage/meow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimalPackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimalPackage/info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serdarmodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../notebooks/.ipynb_checkpoints/09-IfControls-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../notebooks/.ipynb_checkpoints/10-Loops-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../notebooks/09-IfControls.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../notebooks/10-Loops.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000000018083" />
+      <entry key="S5" value="1.0000695504372978" />
+      <entry key="S10" value="1.017801290725559" />
+      <entry key="S30" value="2.5435729908442304" />
+      <entry key="S60" value="7.75206207960039" />
+      <entry key="M2" value="17.819045374428097" />
+      <entry key="M5" value="35.246804583602064" />
+      <entry key="M10" value="47.31681042067924" />
+      <entry key="M15" value="52.78519494833244" />
+      <entry key="M30" value="59.264955771563216" />
+      <entry key="H1" value="62.957947677694754" />
+      <entry key="H2" value="64.93290141851563" />
+      <entry key="H4" value="65.9546113676194" />
+      <entry key="D1" value="66.82409615008787" />
+      <entry key="W1" value="66.97482955023452" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="4.375978452685144E-228" />
+      <entry key="MS500" value="3.3745435320826297E-46" />
+      <entry key="S2" value="4.286015711654754E-12" />
+      <entry key="S5" value="2.8367577596240515E-5" />
+      <entry key="S10" value="0.005341727296276139" />
+      <entry key="S30" value="0.26007799794616066" />
+      <entry key="S60" value="1.1899151827789798" />
+      <entry key="M2" value="3.1810348208649457" />
+      <entry key="M5" value="7.096629768045962" />
+      <entry key="M10" value="10.036014382495718" />
+      <entry key="M15" value="11.400302532672626" />
+      <entry key="M30" value="13.033643570436368" />
+      <entry key="H1" value="13.970603839248382" />
+      <entry key="H2" value="14.473114704282434" />
+      <entry key="H4" value="14.733427449035885" />
+      <entry key="D1" value="14.955129284615396" />
+      <entry key="W1" value="14.993578978511218" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.421439656019732E-9" />
+      <entry key="MS500" value="0.017003788151106303" />
+      <entry key="S2" value="0.36110742751086733" />
+      <entry key="S5" value="0.6654394232759172" />
+      <entry key="S10" value="0.8370441576330103" />
+      <entry key="S30" value="2.7015323910109523" />
+      <entry key="S60" value="8.836201003310054" />
+      <entry key="M2" value="20.89528721965715" />
+      <entry key="M5" value="42.26259756700499" />
+      <entry key="M10" value="57.29778635313862" />
+      <entry key="M15" value="64.1442435610208" />
+      <entry key="M30" value="72.27522447136847" />
+      <entry key="H1" value="76.91607168894545" />
+      <entry key="H2" value="79.39956309764864" />
+      <entry key="H4" value="80.68475702141326" />
+      <entry key="D1" value="81.77867061419195" />
+      <entry key="W1" value="81.96832907396896" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3EVQz0Rd12HjPC3GkskTeWLsV6I" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.meow.executor": "Run",
+    "Python.serdarmodule.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="meow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AnimalPackage/CatPackage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AnimalPackage/CatPackage/meow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.meow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71c9eb27-2da8-41a9-bcd2-eeaf11e3eb40" name="Changes" comment="" />
+      <created>1780261515576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780261515576</updated>
+      <workItem from="1780261516594" duration="2009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloProject$serdarmodule.coverage" NAME="serdarmodule Coverage Results" MODIFIED="1780262651889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HelloProject$meow.coverage" NAME="meow Coverage Results" MODIFIED="1780263313111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AnimalPackage/CatPackage" />
+    <SUITE FILE_PATH="coverage/HelloProject$main.coverage" NAME="main Coverage Results" MODIFIED="1780263328883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
